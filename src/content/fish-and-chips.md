@@ -19,8 +19,8 @@ _By John VanHevel_
 ### Fish & Chips Ingredients ###
 
 - 3 or 4 Large Rustic Potatoes
-- 1 1/2 Pound Cod Filets
-- 1 Quart Vegetable Oils (or until 2 inches deep in pan)
+- 1 & 1/2 lb Cod Filets
+- 1 qt Vegetable Oil (or until 2 inches deep in pan)
 - Malt Vinegar
 - Salt & Pepper (to taste)
 - Drake's Crispy Frymix (for best results)
