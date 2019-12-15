@@ -41,9 +41,9 @@ _By John VanHevel_
 <br></br>
 ### Fish & Chips Cooking Instructions ###
 
-In a wok or large pan, bring the vegetable oil up to 400 degrees, if you do not have a way of measuring temperature, try adding a small dollop of batter to the oil, if it sizzles upon entry, you'll know the oil is hot enough. Start by frying the chips.
+In a wok or large pan, bring the vegetable oil up to 400 degrees, if you do not have a way of measuring temperature, try adding a small dollop of batter to the oil, if it sizzles upon entry, you'll know the oil is hot enough.
 
-Wash the potatoes, chop into quarters and slice the potatoes length wise to the desired thickness (you may also choose to peel the potatoes if preferred). Add the potato wedges to the oil, and let them fry for 5 to 10 minutes or until golden brown (frying time will vary depending on thickness). Once the chips are golden brown, carefully remove from oil, and let rest on a paper towel.
+Start by frying the chips. Wash the potatoes, chop into quarters and slice the potatoes length wise to the desired thickness (you may also choose to peel the potatoes if preferred). Add the potato wedges to the oil, and let them fry for 5 to 10 minutes or until golden brown (frying time will vary depending on thickness). Once the chips are golden brown, carefully remove from oil, and let rest on a paper towel.
 
 > **CHEF'S NOTE:** While still hot, coat the chips in malt vinegar and season with salt and pepper to taste.
 
