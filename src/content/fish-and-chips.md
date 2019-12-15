@@ -35,21 +35,21 @@ _By John VanHevel_
 - Paprika
 - Milk, Water **OR** Beer
 
-> **CHEF'S NOTE:** Use equal parts flour and cornmeal if more batter is needed. Add Milk, Water OR Beer (lager) until it has the same consistency as pancake batter.  The thinner the mix, the crispier the crust.
+> **CHEF'S NOTE:** Use equal parts flour and cornmeal if more batter is needed. Add Milk, Water OR Beer (lager) until it has the same consistency as pancake batter.  The thinner the mix, the crispier the crust (please do NOT use both Milk and Beer).
 
 ![pancake batter consistency for fish and chips](img/drakes-batter-mixture.jpg)
 <br></br>
 ### Fish & Chips Cooking Instructions ###
 
-In a wok or large pan, bring the vegetable oil up to 400 degrees, if you don't have a way of measuring temperature, try adding a small dollop of batter to the oil, if it sizzles upon entry, you'll know the oil is hot enough. Start by frying the chips
+In a wok or large pan, bring the vegetable oil up to 400 degrees, if you do not have a way of measuring temperature, try adding a small dollop of batter to the oil, if it sizzles upon entry, you'll know the oil is hot enough. Start by frying the chips.
 
-Start by washing the potatoes, chop into quarters and slice the potatoes length wise to the desired thickness (you may also choose to peel the potatoes if preferred). Add the potato wedges to the oil, and let fry for 5 to 10 minutes or until golden brown (frying time will vary depending on thickness). Once the chips are golden brown, carefully remove from oil, and let rest on a paper towel.
+Wash the potatoes, chop into quarters and slice the potatoes length wise to the desired thickness (you may also choose to peel the potatoes if preferred). Add the potato wedges to the oil, and let them fry for 5 to 10 minutes or until golden brown (frying time will vary depending on thickness). Once the chips are golden brown, carefully remove from oil, and let rest on a paper towel.
 
 > **CHEF'S NOTE:** While still hot, coat the chips in malt vinegar and season with salt and pepper to taste.
 
 ![chips removed from oil and coated in malt vinegar](img/chips-removed-from-oil.jpg)
 <br></br>
-While the potatoes are cooking, wash the cod filets and cut them into 4 inch sections. Next, place the sections into a bowl containing the batter mixture. Remove the chips and add the batter coated cod filets into the oil. Let cook for 5 to 10 minutes or until golden brown. Serve hot with chips, malt vinegar or tar tar sauce.
+While the potatoes are cooking, wash the cod filets and cut them into 4 inch sections. Next, place the sections into a bowl containing the batter mixture. Remove the chips and add the batter coated cod filets into the oil. Let cook for 5 to 10 minutes or until golden brown. Serve hot with chips, malt vinegar or tartar sauce.
 
 ![crispy brown cod from the fryer](img/crispy-brown-cod.jpg)
 <br></br>
