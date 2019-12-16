@@ -2,7 +2,7 @@
 layout: post
 title: "Fish & Chips Recipe"
 author: John VanHevel
-tags: ["Getting Started"]
+tags: ["Seafood"]
 image: img/fish-and-chip-recipe.jpg
 date: "2019-11-30"
 draft: false
