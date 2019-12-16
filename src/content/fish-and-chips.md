@@ -20,8 +20,8 @@ _By John VanHevel_
 
 - 3 or 4 Large Rustic Potatoes
 - 1 & 1/2 lb Cod Filets
-- 1 qt Vegetable Oil (or until 2 inches deep in pan)
-- Malt Vinegar
+- 1 Qt Vegetable Oil (or until 2 inches deep in pan)
+- 2 Tbsp Malt Vinegar
 - Salt & Pepper (to taste)
 - Drake's Crispy Frymix (for best results)
 
@@ -32,8 +32,8 @@ _By John VanHevel_
 - 1 Cup Flour
 - 1 Cup Fine Cornmeal
 - Salt & Pepper (to taste)
-- Paprika
-- Milk, Water **OR** Beer
+- 1 Tsp Paprika
+- 2 cups Water, Milk **OR** Beer
 
 > **CHEF'S NOTE:** Use equal parts flour and cornmeal if more batter is needed. Add Milk, Water OR Beer (lager) until it has the same consistency as pancake batter.  The thinner the mix, the crispier the crust (please do NOT use both Milk and Beer).
 
@@ -55,9 +55,14 @@ While the potatoes are cooking, wash the cod filets and cut them into 4 inch sec
 <br></br>
 > **CHEF'S NOTE:** Garnish with cucumbers and organge peppers for a flare of color. Enjoy!
 
-### Nutritional Information ###
+### Fish & Chips Nutritional Information (per serving) ###
 
-(Nutritional information here)
-
-
-
+| Ingredient | Calories |
+| :------------: | :------------: |
+| Large Rustic Potatoes (2)     | 336     |
+| 1 & 1/2 Cod Filets     | 142     |
+| 1 Qt Vegetable Oil (10% of total Calories)    | 794     |
+| Drake's Crispy Fry Mix    | 100    |
+| 2 cups Water, Milk **OR** Beer    | 0, 206, 208     |
+| 2 Tbsp Malt Vinegar    | 12     |
+| **Calorie Total**  | **1,384, 1,590, 1,592**     |
