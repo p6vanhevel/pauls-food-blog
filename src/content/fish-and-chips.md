@@ -90,7 +90,7 @@ While the potatoes are cooking, wash the cod filets and cut them into 4 inch sec
     "calories": "1,183 calories"
   },
   "prepTime": "PT10M",
-  "recipeInstructions": "Start by frying the chips. Wash the potatoes, chop into quarters and slice the potatoes length wise to the desired thickness (you may also choose to peel the potatoes if preferred). Add the potato wedges to the oil, and let them fry for 5 to 10 minutes or until golden brown (frying time will vary depending on thickness). Once the chips are golden brown, carefully remove from oil, and let rest on a paper towel. While the potatoes are cooking, wash the cod filets and cut them into 4 inch sections. Next, place the sections into a bowl containing the batter mixture. Remove the chips and add the batter coated cod filets into the oil. Let cook for 5 to 10 minutes or until golden brown. Serve hot with chips, malt vinegar or tartar sauce.",
+  "recipeInstructions": "Start by frying the chips. Wash the potatoes, chop into quarters and slice the potatoes length wise to the desired thickness. Add the potato wedges to the oil, and let them fry for 5 to 10 minutes or until golden brown. Once the chips are golden brown, carefully remove from oil, and let rest on a paper towel. While the potatoes are cooking, wash the cod filets and cut them into 4 inch sections. Next, place the sections into a bowl containing the batter mixture. Remove the chips and add the batter coated cod filets into the oil. Let cook for 5 to 10 minutes or until golden brown. Serve hot with chips, malt vinegar or tartar sauce.",
   "recipeYield": "2 servings of fish and chips"
 }
 </script>
