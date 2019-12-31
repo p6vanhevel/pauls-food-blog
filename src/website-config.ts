@@ -50,7 +50,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'The Suspicious Panini',
-  description: 'Recipes Front & Center, No Ads, No Problems',
+  description: 'Recipes Top of Page, No Lengthy Narratives, No Ads, No Problems',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
   lang: 'en',

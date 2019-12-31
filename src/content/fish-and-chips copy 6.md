@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "Spinach, Feta, Onion, Tomato Omlette"
-author: Ryan McPhee
-tags: ["Breakfast"]
-image: img/omlette-ingredients.jpg
+title: "Seafood Stirfry"
+author: John VanHevel
+tags: ["Seafood"]
+image: img/stirfry.jpg
 date: "2019-11-30"
 draft: false
 ---
 
-## Spinach, Feta, Onion, Tomato Omlette ##
+##  Seafood Stirfry ##
 
-_By Ryan McPhee_
+_By John VanHevel_
 
-**Prep Time:** 10 Minutes
-**Cook Time:** 20 Minutes
-**Total Time:** 30 Minutes
+**Prep Time:** x Minutes
+**Cook Time:** x Minutes
+**Total Time:** x Minutes
 
-### Fish & Chips Ingredients ###
+### Seafood Stirfry Ingredients ###
 
 - 3 or 4 Large Rustic Potatoes
 - 1 & 1/2 lb Cod Filets

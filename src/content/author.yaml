@@ -18,3 +18,9 @@
   bio: Father, Husband, World Traveler, Chef, Detroit Lions Fan
   location: Florida, USA
   profile_image: img/john-vanhevel.jpg
+- id: Ryan McPhee
+  avatar: avatars/ryan-mcphee-avatar.png
+  bio: Test
+  location: Detroit, USA
+  profile_image: img/ryan-mcphee-cover.jpg
+  
