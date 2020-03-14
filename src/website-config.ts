@@ -49,8 +49,8 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'The Suspicious Panini',
-  description: 'Recipes Top of Page, No Lengthy Narratives, No Ads, No Problems',
+  title: 'The Grizzled Porgy',
+  description: '...and The Slanky Spoon',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
   lang: 'en',
