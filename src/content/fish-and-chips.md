@@ -4,7 +4,7 @@ title: "Fish & Chips Recipe"
 author: John VanHevel
 tags: ["Seafood"]
 image: img/fish-and-chip-recipe.jpg
-date: "2019-11-30"
+date: "2020-03-29"
 draft: false
 ---
 

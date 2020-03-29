@@ -4,7 +4,7 @@ title: "Seafood Stirfry"
 author: John VanHevel
 tags: ["Seafood"]
 image: img/stirfry.jpg
-date: "2019-11-30"
+date: "2020-03-28"
 draft: false
 ---
 

@@ -4,7 +4,7 @@ title: "Calamari Repine"
 author: John VanHevel
 tags: ["Seafood"]
 image: img/calamari-plated.jpg
-date: "2019-11-30"
+date: "2020-03-26"
 draft: false
 ---
 
