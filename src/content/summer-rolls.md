@@ -10,7 +10,7 @@ draft: false
 
 ## Simple Summer Rolls Recipe (no annoying ads) ##
 
-_Recipe by John VanHevel_
+_Recipe by John VanHevel,_
 _Interviewed & Written by Paul VanHevel_
 
 **Prep Time:** 25 Minutes
