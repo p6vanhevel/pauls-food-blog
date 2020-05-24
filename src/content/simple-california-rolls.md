@@ -4,7 +4,7 @@ title: "California Sushi Rolls"
 author: John VanHevel
 tags: ["Seafood"]
 image: img/johns-california-rolls.jpeg
-date: "2020-03-30"
+date: "2020-04-01"
 draft: false
 ---
 
