@@ -3,7 +3,7 @@ layout: post
 title: "Summer Rolls"
 author: John VanHevel
 tags: ["seafood"]
-image: img/shrimp-crab-avocado-mango-summer-rolls.jpg
+image: img/summer-rolls-2.jpg
 date: "2020-03-30"
 draft: false
 ---
