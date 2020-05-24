@@ -8,7 +8,7 @@ date: "2020-03-30"
 draft: false
 ---
 
-## Simple Summer Rolls Recipe (no annoying ads) ##
+## Summer Rolls Recipe (no annoying ads) ##
 
 _Recipe by John VanHevel,_
 _Interviewed & Written by Paul VanHevel_
