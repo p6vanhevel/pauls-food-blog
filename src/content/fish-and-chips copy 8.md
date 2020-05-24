@@ -18,7 +18,7 @@ _By John VanHevel_
 
 ### Tomato Soup Ingredients ###
 
-- x Fresh Tomatoes (coarsely chopped)
+- 5 or 6 Small Fresh Tomatoes (coarsely chopped)
 - 2 Large Yellow Onions (coarsely chopped)
 - 3 Celery Stalks (coarsely chopped)
 - 1 Head Garlic (coarsely chopped)
