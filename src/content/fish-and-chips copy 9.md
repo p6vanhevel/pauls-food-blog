@@ -8,7 +8,7 @@ date: "2019-03-30"
 draft: false
 ---
 
-## Simple Summer Roll Recipe (no annoying ads) ##
+## Simple Summer Rolls Recipe (no annoying ads) ##
 
 _By John VanHevel_
 
@@ -56,7 +56,9 @@ Now start prepping each ingredient for the interior of your rolls. Carefully rem
 
 Next remove the fresh mint leaves from their stems, and remove any excess length from the green onions (they should be roughly the same length as the roll, (finely chop and use any remaining green onion for garnish). Any additional ingredients, such as mangos, avocados, snow peaks, etc. should be cut into manageable pieces to fill each of the summer rolls. Your workstation should resemble the below:
 
-![summer-roll-ingredients displayed on a cutting board](img/summer-roll-workstation.jpg)
+![summer-roll-ingredients displayed on a cutting board](img/summer-roll-workstation-all.jpg)
+
+### Assembling the Summer Rolls ###
 
 Next, dip each of the rice papers into warm water (30 seconds) and pat them dry on a dry plate or cutting board. If not dried properly, your rice paper may take on the consistency of cling wrap. Once dried, set aside.
 
