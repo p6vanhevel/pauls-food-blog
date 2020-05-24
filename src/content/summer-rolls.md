@@ -24,7 +24,7 @@ _Interviewed & Written by Paul VanHevel_
 - 1 or 2 whole carrots (shredded)
 - 20 to 30 fresh mint leaves
 - 1 bunch of green onions
-- 1 cucumber (cut into 1/8 pieces lengthwise)
+- 2 cucumbers
 - 1 lb shrimp (steamed and halved)
 - 1 lb imitation crab
 - 1 head of lettuce
