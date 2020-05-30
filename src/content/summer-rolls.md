@@ -3,7 +3,7 @@ layout: post
 title: "Summer Rolls"
 author: John VanHevel
 tags: ["seafood"]
-image: img/summer-roll-2.jpg
+image: img/tasty-summer-rolls.jpg
 date: "2020-03-30"
 draft: false
 ---
