@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "California Sushi Rolls"
+title: "California Sushi Rolls Recipe"
 author: John VanHevel
 tags: ["Seafood"]
 image: img/johns-california-rolls.jpeg
@@ -8,7 +8,9 @@ date: "2020-04-01"
 draft: false
 ---
 
-## Simply Delicious California Sushi Rolls ##
+A simple california roll recipe. Recipes top of page for the best user experience. No annoying advertisements. No long scroll or lame food history, guaranteed.
+
+## Simple California Sushi Rolls ##
 
 _By John VanHevel_
 
