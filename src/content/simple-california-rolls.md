@@ -8,7 +8,7 @@ date: "2020-04-01"
 draft: false
 ---
 
-A simple california roll recipe. Recipes top of page for the best user experience. NO annoying advertisements. NO long scroll. NO food or personal history, guaranteed.
+A simple california roll recipe. Recipes top of page for the best experience. No advertisements. No long scroll. No personal history, guaranteed.
 
 ## Simple California Sushi Rolls ##
 
