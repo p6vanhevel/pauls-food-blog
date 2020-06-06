@@ -12,7 +12,7 @@ draft: false
 
 ## Tomato Soup & Homemade Bread ##
 
-*Recipe by John VanHevel,*
+*Recipe by [John Vanhevel](https://suspicious-panini-84e3b3.netlify.app/author/john-van-hevel/),*
 *Interviewed & Written by Paul VanHevel*
 
 **Prep Time:** x Minutes
