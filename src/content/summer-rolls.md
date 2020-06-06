@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Simple Summer Roll Recipe"
+title: "Simple Summer Roll Recipe"
 author: John VanHevel
 tags: ["seafood"]
 image: img/tasty-summer-rolls.jpg
