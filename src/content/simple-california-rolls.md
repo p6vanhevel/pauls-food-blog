@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "California Sushi Rolls"
+description: test
 author: John VanHevel
 tags: ["Seafood"]
 image: img/johns-california-rolls.jpeg
