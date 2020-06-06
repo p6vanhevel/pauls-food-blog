@@ -8,7 +8,7 @@ date: "2020-03-30"
 draft: false
 ---
 
-A summer roll recipe. Recipe top of page for the best experience. No advertisements. No long scroll. No personal history, guaranteed.
+A summer roll recipe. Recipe top of page for the best experience. No advertisements. No long scroll. No food or personal history, guaranteed.
 
 ## Summer Rolls Recipe (no annoying ads) ##
 
