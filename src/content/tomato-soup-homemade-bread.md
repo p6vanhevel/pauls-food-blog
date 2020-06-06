@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tomato Soup"
+title: "Tomato Soup & No-Knead Bread Recipe"
 author: John VanHevel
 tags: ["Soup"]
 image: img/tomato-soup-basil.jpg
@@ -8,9 +8,12 @@ date: "2020-03-29"
 draft: false
 ---
 
+> **Tomato soup and no-knead bread recipe.** Recipe top of page for the best experience. No ads. No long scroll. No food history, guaranteed.
+
 ## Tomato Soup & Homemade Bread ##
 
-_By John VanHevel_
+*Recipe by John VanHevel,*
+*Interviewed & Written by Paul VanHevel*
 
 **Prep Time:** x Minutes
 **Cook Time:** x Minutes
