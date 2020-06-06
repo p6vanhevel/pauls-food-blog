@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Summer Rolls"
+title: "A Simple Summer Roll Recipe"
 author: John VanHevel
 tags: ["seafood"]
 image: img/tasty-summer-rolls.jpg
 date: "2020-03-30"
 draft: false
 ---
+
+A summer roll recipe. Recipe top of page for the best experience. No advertisements. No long scroll. No personal history, guaranteed.
 
 ## Summer Rolls Recipe (no annoying ads) ##
 
