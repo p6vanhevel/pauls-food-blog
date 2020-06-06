@@ -12,8 +12,8 @@ draft: false
 
 ## John's Fish & Chips ##
 
-_By John VanHevel_
-_Interviewed & Written by Paul VanHevel_
+*Recipe by John VanHevel,*
+*Interviewed & Written by Paul VanHevel*
 
 **Prep Time:** 10 Minutes
 **Cook Time:** 20 Minutes
