@@ -12,8 +12,8 @@ draft: false
 
 ## Summer Rolls Recipe ##
 
-_Recipe by John VanHevel,_
-_Interviewed & Written by Paul VanHevel_
+*Recipe by John VanHevel,*
+*Interviewed & Written by Paul VanHevel*
 
 **Prep Time:** 25 Minutes
 **Cook Time:** 10 Minutes
