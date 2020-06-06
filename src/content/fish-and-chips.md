@@ -8,9 +8,12 @@ date: "2020-03-29"
 draft: false
 ---
 
+> **A fish and chips recipe.** Recipe top of page for the best experience. No advertisements. No long scroll. No food or personal history, guaranteed.
+
 ## John's World Famous Fish & Chips ##
 
 _By John VanHevel_
+_Interviewed & Written by Paul VanHevel_
 
 **Prep Time:** 10 Minutes
 **Cook Time:** 20 Minutes
