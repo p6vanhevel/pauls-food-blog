@@ -10,7 +10,7 @@ draft: false
 
 > **A fish and chips recipe.** Recipe top of page for the best experience. No advertisements. No long scroll. No personal history, guaranteed.
 
-## John's World Famous Fish & Chips ##
+## John's Fish & Chips ##
 
 _By John VanHevel_
 _Interviewed & Written by Paul VanHevel_
