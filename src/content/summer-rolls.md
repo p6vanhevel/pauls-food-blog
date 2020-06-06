@@ -8,9 +8,9 @@ date: "2020-03-30"
 draft: false
 ---
 
-A summer roll recipe. Recipe top of page for the best experience. No advertisements. No long scroll. No food or personal history, guaranteed.
+> A summer roll recipe. Recipe top of page for the best experience. No advertisements. No long scroll. No food or personal history, guaranteed.
 
-## Summer Rolls Recipe (no annoying ads) ##
+## Summer Rolls Recipe ##
 
 _Recipe by John VanHevel,_
 _Interviewed & Written by Paul VanHevel_
