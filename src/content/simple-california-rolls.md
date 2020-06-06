@@ -12,7 +12,8 @@ draft: false
 
 ## Simple California Sushi Rolls ##
 
-_By John VanHevel_
+*Recipe by John VanHevel,*
+*Interviewed & Written by Paul VanHevel*
 
 **Prep Time:** 40 Minutes
 **Cook Time:** 20 Minutes
