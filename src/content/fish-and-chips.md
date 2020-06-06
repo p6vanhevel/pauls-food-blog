@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fish & Chips Recipe"
+title: "Fish and Chips Recipe"
 author: John VanHevel
 tags: ["Seafood"]
 image: img/fish-and-chip-recipe.jpg
