@@ -69,31 +69,3 @@ While the potatoes are cooking, wash the cod filets and cut them into 4 inch sec
 | 2 cups Water, Milk **OR** Beer    | 0, 206, 208     |
 | 2 Tbsp Malt Vinegar    | 12     |
 | **Calorie Total**  | **975, 1,181 1,183**     |
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Recipe",
-  "author": "John VanHevel",
-  "cookTime": "PT30M",
-  "datePublished": "2019-11-30",
-  "description": "This classic fish and chips recipe from my dad.",
-  "image": "/static/85dad5f1d58ebd63eb03269a0a69e739/95566/fish-and-chip-recipe.jpg",
-  "recipeIngredient": [
-    "3 or 4 large rustic potatoes",
-    "1 & 1/2 cod filet",
-    "1 qt vegetable oil",
-    "2 tbsp malt vinegar",
-    "Drake's Cripsy Frymix",
-    "salt",
-    "pepper"
-  ],
-  "name": "John's World Famous Fish & Chips",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "1,183 calories"
-  },
-  "prepTime": "PT10M",
-  "recipeInstructions": "Start by frying the chips. Wash the potatoes, chop into quarters and slice the potatoes length wise to the desired thickness. Add the potato wedges to the oil, and let them fry for 5 to 10 minutes or until golden brown. Once the chips are golden brown, carefully remove from oil, and let rest on a paper towel. While the potatoes are cooking, wash the cod filets and cut them into 4 inch sections. Next, place the sections into a bowl containing the batter mixture. Remove the chips and add the batter coated cod filets into the oil. Let cook for 5 to 10 minutes or until golden brown. Serve hot with chips, malt vinegar or tartar sauce.",
-  "recipeYield": "2 servings of fish and chips"
-}
-</script>
