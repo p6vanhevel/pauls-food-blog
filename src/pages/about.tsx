@@ -39,12 +39,12 @@ const About: React.FC = () => (
               <p>
               Hello and welcome!
               </p>
-              <p>
-              My name is Paul VanHevel and The Grizzled Porgy… and the Slanky Spoon is a passion project of mine. I’m an SEO (Search Engine Optimization) Strategist in Brooklyn, New York with a love for food. Blah, blah, blah...
-              </p>
               <p><strong>
               The entire premise behind this website was to build something forward thinking. Recipes top of page. No annoying advertisements. No personal history (unlike here), just simple food recipes without distraction.
               </strong>
+              </p>
+              <p>
+              My name is Paul VanHevel and The Grizzled Porgy… and the Slanky Spoon is a passion project of mine. I’m an SEO (Search Engine Optimization) Strategist in Brooklyn, New York with a love for food. Blah, blah, blah...
               </p>
               <p>
               The chefs and homecooks featured on this blog are mainly my Father, John VanHevel, co-workers and friends for whom I’m grateful. They provide me with photos of their food, which I try and showcase to a broader audience.
