@@ -8,6 +8,9 @@ import { SocialLink } from '../../styles/shared';
 import config from '../../website-config';
 import Facebook from '../icons/facebook';
 import Twitter from '../icons/twitter';
+import Instagram from '../icons/instagram';
+import Pinterest from '../icons/pinterest';
+
 import SubscribeModal from '../subscribe/SubscribeOverlay';
 import SiteNavLogo from './SiteNavLogo';
 
@@ -168,6 +171,28 @@ class SiteNav extends React.Component<SiteNavProps> {
                 rel="noopener noreferrer"
               >
                 <Twitter />
+              </a>
+            )}
+             {config.instagram && (
+              <a
+                css={SocialLink}
+                href={config.instagram}
+                target="_blank"
+                title="Instagram"
+                rel="noopener noreferrer"
+              >
+                <Instagram />
+              </a>
+            )}
+            {config.pinterest && (
+              <a
+                css={SocialLink}
+                href={config.pinterest}
+                target="_blank"
+                title="Pinterest"
+                rel="noopener noreferrer"
+              >
+                <Pinterest />
               </a>
             )}
           </SocialLinks>
