@@ -10,6 +10,13 @@ module.exports = {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
   },
   plugins: [
+    {
+      resolve: "gatsby-plugin-google-tagmanager",
+      options: {
+        id: "GTM-MT8LH5R",
+        includeInDevelopment: false,
+      },
+    },
     'gatsby-plugin-sitemap',
     'gatsby-plugin-sharp',
     {
