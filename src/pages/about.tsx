@@ -20,7 +20,7 @@ const PageTemplate = css`
 const About: React.FC = () => (
   <IndexLayout>
     <Helmet>
-      <title>About</title>
+      <title>About The Grizzled Porgy</title>
     </Helmet>
     <Wrapper css={PageTemplate}>
       <header css={[outer, SiteHeader]}>
@@ -31,44 +31,35 @@ const About: React.FC = () => (
       <main id="site-main" className="site-main" css={[SiteMain, outer]}>
         <article className="post page" css={[PostFull, NoImage]}>
           <PostFullHeader>
-            <PostFullTitle>About</PostFullTitle>
+            <PostFullTitle>About The Grizzled Porgy</PostFullTitle>
           </PostFullHeader>
 
           <PostFullContent className="post-full-content">
             <div className="post-content">
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo finibus leo,
-                non tempus magna vehicula ac. Maecenas mollis ante finibus pharetra imperdiet.
-                Maecenas in aliquam purus. Nam et massa a nulla fermentum dapibus sit amet in neque.
-                Ut ipsum ipsum, rhoncus a sodales pellentesque, interdum a elit. Nullam aliquam
-                tellus nibh, eget laoreet dui aliquet non. Vestibulum malesuada ante at diam tempus,
-                ac interdum risus scelerisque. Sed ipsum neque, vulputate porta diam eget, consequat
-                blandit nulla. Integer volutpat velit vitae purus lacinia aliquam. Integer bibendum
-                ipsum vitae magna pulvinar, nec vehicula dolor vulputate. Nulla eu massa id orci
-                placerat finibus vel sit amet eros. Vestibulum quis consequat massa. Sed sagittis
-                sollicitudin massa at commodo. Praesent diam nisi, imperdiet posuere eleifend nec,
-                blandit ac massa.
+              Hello and welcome!
               </p>
               <p>
-                Vestibulum semper pretium ipsum nec congue. Ut ac eros nisi. Donec leo sem, aliquam
-                mollis sapien ultrices, dapibus congue diam. Proin viverra dapibus blandit. Ut
-                mauris tellus, tristique id felis vel, venenatis vestibulum nunc. Nam molestie
-                pulvinar nibh, eget egestas augue. Maecenas tellus arcu, mattis ut ipsum non,
-                sollicitudin convallis nunc. Donec nec neque tristique, aliquet lacus id, laoreet
-                nunc. Cras dapibus nisi nulla, ullamcorper faucibus neque suscipit ac. Donec eget
-                orci venenatis justo lobortis volutpat. Proin vel placerat nisl. Integer arcu nunc,
-                sodales eu fringilla non, aliquam non diam. Cras placerat, massa et faucibus
-                pretium, ante elit tincidunt tellus, tristique ultricies velit quam et massa.
+              My name is Paul VanHevel and The Grizzled Porgy… and the Slanky Spoon is a passion project of mine. I’m an SEO (Search Engine Optimization) Strategist in Brooklyn, New York with a love for food. Blah, blah, blah...
+              </p>
+              <p><strong>
+              The entire premise behind this website was to build something forward thinking. Recipes top of page. No annoying advertisements. No personal history (unlike here), just simple food recipes without distraction.
+              </strong>
               </p>
               <p>
-                In nunc lacus, dapibus vitae lacus sit amet, efficitur iaculis neque. Suspendisse ut
-                tellus quis leo vestibulum tincidunt. Aenean nec enim ac dolor lacinia semper. Ut
-                sed laoreet libero. Nunc elementum sollicitudin accumsan. Nunc eu augue neque. Proin
-                a tortor nibh. Cras eu nisl ornare sapien feugiat pellentesque. Mauris dignissim vel
-                quam eu pellentesque. Integer sit amet posuere quam, eu ullamcorper odio. Nullam a
-                lacus tempus sapien dignissim ullamcorper. In hac habitasse platea dictumst. Proin
-                quis massa aliquam, feugiat tortor sit amet, tincidunt urna. Donec posuere pulvinar
-                lectus, ac semper ipsum vulputate quis.
+              The chefs and homecooks featured on this blog are mainly my Father, John VanHevel, co-workers and friends for whom I’m grateful. They provide me with photos of their food, which I try and showcase to a broader audience.
+              </p>
+              <p>
+              My hope and long term goal is to provide a ranking alternative to the lengthy narratives, food histories or “what this recipe means to me” style of food blogging that is often required to rank well in search engines for “recipe” related queries.
+              </p>
+              <p>
+              Instead, I’m hoping a recipe forward website, a clean presentation and a super fast experience, constructed by my partner, Mary Ellis is something that will one day grow and potentially change how food blogging is done. <strong>This is an experiment to see how that might unfold.</strong>
+              </p>
+              <p>
+              Sincerely,
+              </p>
+              <p>
+              <i>Paul VanHevel</i>
               </p>
             </div>
           </PostFullContent>
