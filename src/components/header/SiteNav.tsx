@@ -130,7 +130,8 @@ class SiteNav extends React.Component<SiteNavProps> {
     return (
       <nav css={[isHome && HomeNavRaise, SiteNavStyles]}>
         <SiteNavLeft>
-          {!isHome && <SiteNavLogo />}
+          {//!isHome && <SiteNavLogo />}
+          }
           <ul css={NavStyles} role="menu">
             {/* TODO: mark current nav item - add class nav-current */}
             <li role="menuitem">
@@ -139,9 +140,10 @@ class SiteNav extends React.Component<SiteNavProps> {
             <li role="menuitem">
               <Link to="/about">About</Link>
             </li>
-            <li role="menuitem">
-              <Link to="/tags/getting-started/">Getting Started</Link>
-            </li>
+            {//<li role="menuitem">
+              //<Link to="/tags/getting-started/">Getting Started</Link>
+            //</li>
+            }
           </ul>
         </SiteNavLeft>
         <SiteNavRight>
