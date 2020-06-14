@@ -3,7 +3,7 @@ layout: post
 title: "Asian Vegetable Stir Fry"
 author: John VanHevel
 tags: ["Seafood"]
-image: img/stirfry.jpg
+image: img/asian-vegetable-stir-fry.jpg
 date: "2020-03-28"
 draft: false
 ---
