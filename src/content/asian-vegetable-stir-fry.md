@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seafood Stirfry"
+title: "Asian Vegetable Stir Fry"
 author: John VanHevel
 tags: ["Seafood"]
 image: img/stirfry.jpg
