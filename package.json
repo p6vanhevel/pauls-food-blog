@@ -1,6 +1,6 @@
 {
-  "name": "grizzled-porgy",
-  "description": "The Grizzled Porgy",
+  "name": "gatsby-casper",
+  "description": "Casper for gatsby",
   "version": "0.0.0",
   "private": true,
   "author": "Paul A VanHevel <thegrizzledporgy@gmail.com>",
@@ -31,7 +31,7 @@
     "gatsby-plugin-google-tagmanager": "^3.0.0",
     "gatsby-plugin-postcss": "2.1.2",
     "gatsby-plugin-react-helmet": "3.1.2",
-    "gatsby-plugin-sharp": "2.2.9",
+    "gatsby-plugin-sharp": "^3.1.1",
     "gatsby-plugin-sitemap": "2.2.3",
     "gatsby-plugin-typescript": "2.1.2",
     "gatsby-remark-abbr": "1.0.0",
@@ -47,6 +47,7 @@
     "gatsby-transformer-yaml": "2.2.3",
     "lodash": "^4.17.21",
     "modern-normalize": "0.5.0",
+    "node": "^12.21.0",
     "normalize.css": "8.0.1",
     "polished": "3.4.1",
     "postcss-color-function": "4.1.0",
@@ -68,7 +69,7 @@
     "@typescript-eslint/eslint-plugin": "1.13.0",
     "@typescript-eslint/parser": "1.13.0",
     "babel-plugin-styled-components": "1.10.6",
-    "eslint": "6.1.0",
+    "eslint": "^7.22.0",
     "eslint-config-xo-react": "0.20.0",
     "eslint-config-xo-space": "0.21.0",
     "eslint-config-xo-typescript": "0.15.0",
@@ -77,8 +78,5 @@
     "eslint-plugin-react-hooks": "1.6.1",
     "rimraf": "2.6.3",
     "typescript": "3.5.3"
-  },
-  "engines": {
-    "node": ">=10.0.0"
   }
 }
