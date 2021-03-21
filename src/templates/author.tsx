@@ -72,11 +72,9 @@ const AuthorProfileBioImage = css`
 `;
 
 interface AuthorTemplateProps {
-  pathContext: {
-    slug: string;
-  };
   pageContext: {
     author: string;
+    slug: string;
   };
   data: {
     logo: {
@@ -135,12 +133,12 @@ const Author: React.FC<AuthorTemplateProps> = props => {
         <meta property="og:site_name" content={config.title} />
         <meta property="og:type" content="profile" />
         <meta property="og:title" content={`${author.id} - ${config.title}`} />
-        <meta property="og:url" content={config.siteUrl + props.pathContext.slug} />
+        <meta property="og:url" content={config.siteUrl + props.pageContext.slug} />
         <meta property="article:publisher" content="https://www.facebook.com/ghost" />
         <meta property="article:author" content="https://www.facebook.com/ghost" />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content={`${author.id} - ${config.title}`} />
-        <meta name="twitter:url" content={config.siteUrl + props.pathContext.slug} />
+        <meta name="twitter:url" content={config.siteUrl + props.pageContext.slug} />
         {config.twitter && (
           <meta
             name="twitter:site"

@@ -118,9 +118,6 @@ const ReadNextFeed = styled.div`
 `;
 
 interface PageTemplateProps {
-  pathContext: {
-    slug: string;
-  };
   data: {
     logo: {
       childImageSharp: {
@@ -171,6 +168,7 @@ interface PageTemplateProps {
     };
   };
   pageContext: {
+    slug: string;
     prev: PageContext;
     next: PageContext;
   };
@@ -226,7 +224,7 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
         <meta property="og:type" content="article" />
         <meta property="og:title" content={post.frontmatter.title} />
         <meta property="og:description" content={post.excerpt} />
-        <meta property="og:url" content={config.siteUrl + props.pathContext.slug} />
+        <meta property="og:url" content={config.siteUrl + props.pageContext.slug} />
         {(post.frontmatter.image && post.frontmatter.image.childImageSharp) && (
           <meta property="og:image" content={`${config.siteUrl}${post.frontmatter.image.childImageSharp.fluid.src}`} />
         )}
@@ -242,7 +240,7 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={post.frontmatter.title} />
         <meta name="twitter:description" content={post.excerpt} />
-        <meta name="twitter:url" content={config.siteUrl + props.pathContext.slug} />
+        <meta name="twitter:url" content={config.siteUrl + props.pageContext.slug} />
         {(post.frontmatter.image && post.frontmatter.image.childImageSharp) && (
           <meta name="twitter:image" content={`${config.siteUrl}${post.frontmatter.image.childImageSharp.fluid.src}`} />
         )}
