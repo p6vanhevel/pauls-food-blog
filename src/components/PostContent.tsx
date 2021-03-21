@@ -552,9 +552,6 @@ const renderAst = new RehypeReact({
 
 const Ast = ({ ast, ...props }: any) => {
   ast.properties = props;
-  console.log(ast)
-  console.log(ast.properties)
-  console.log(props.author)
   return renderAst(ast);
 };
 
