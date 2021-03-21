@@ -78,5 +78,8 @@
     "eslint-plugin-react-hooks": "1.6.1",
     "rimraf": "2.6.3",
     "typescript": "3.5.3"
+  },
+  "resolutions": {
+    "sharp": "0.24.0"
   }
 }
