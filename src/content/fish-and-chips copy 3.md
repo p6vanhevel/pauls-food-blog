@@ -3,7 +3,7 @@ layout: post
 title: "Spinach, Feta, Onion, Tomato Omlette"
 author: Ryan McPhee
 tags: ["Breakfast"]
-image: 
+image: img/omlette-ingredients.jpg
 date: "2019-11-30"
 draft: false
 ---
